@@ -19,6 +19,7 @@ a {
   left:50%;
   margin-top:-79px;
   margin-left:-286px;
+  display: none;
 }
 
 #name {
